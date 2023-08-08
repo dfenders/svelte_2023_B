@@ -1,7 +1,4 @@
-body{
-    margin:0;
-}
-
-h1{
+div #myId .boldText .anotherClass{
     color:red;
+    font-weight:bold;
 }
